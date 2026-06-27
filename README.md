@@ -1,5 +1,6 @@
 # Edge-Based Vehicle Verification & Access Control System 🛡️🚗
 
+<img width="1170" height="831" alt="image" src="https://github.com/user-attachments/assets/a3b8054b-6c02-4a86-92b1-0258d54ef92c" />
 
 
 ## 1. Executive Summary
